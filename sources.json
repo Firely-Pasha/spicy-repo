@@ -13,7 +13,10 @@
       "id": "any.hentaicosplay",
       "build": 1,
       "version": "0.0.1",
-      "name": "Hentai Cosplay"
+      "name": "Hentai Cosplay",
+      "nsfw": true,
+      "lang": "any",
+      "url": "https://hentai-cosplay-xxx.com"
     },
     {
       "id": "ru.hentaichan",
