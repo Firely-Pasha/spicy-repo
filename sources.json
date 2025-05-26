@@ -1,22 +1,22 @@
 {
   "sources": [
     {
-      "id": "ru.hentaichan",
-      "build": 1,
-      "version": "0.0.1",
-      "name": "Хентай-тян",
-      "nsfw": false,
-      "lang": "ru",
-      "url": "https://x3.h-chan.me"
-    },
-    {
       "id": "ru.hentailib",
-      "build": 1,
-      "version": "0.0.1",
+      "build": 2,
+      "version": "0.0.2",
       "name": "HentaiLIB",
-      "nsfw": false,
+      "nsfw": true,
       "lang": "ru",
       "url": "https://hentailib.me"
+    },
+    {
+      "id": "ru.hentaichan",
+      "build": 2,
+      "version": "0.0.2",
+      "name": "Хентай-тян",
+      "nsfw": true,
+      "lang": "ru",
+      "url": "https://x3.h-chan.me"
     }
   ]
 }
