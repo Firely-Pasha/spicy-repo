@@ -1,31 +1,31 @@
 {
   "sources": [
     {
-      "id": "any.hentaicosplay",
-      "build": 1,
-      "version": "0.0.2",
+      "id": "hentaicosplay",
+      "build": 2,
+      "version": "0.0.3",
       "name": "Hentai Cosplay",
       "nsfw": true,
       "lang": "any",
       "url": "https://hentai-cosplay-xxx.com"
     },
     {
-      "id": "ru.hentailib",
-      "build": 2,
-      "version": "0.0.3",
-      "name": "HentaiLIB",
-      "nsfw": true,
-      "lang": "ru",
-      "url": "https://hentailib.me"
-    },
-    {
-      "id": "ru.hentaichan",
+      "id": "hentaichancc",
       "build": 2,
       "version": "0.0.3",
       "name": "Хентай-тян",
       "nsfw": true,
       "lang": "ru",
       "url": "https://x3.h-chan.me"
+    },
+    {
+      "id": "multichan.hentaichan",
+      "build": 2,
+      "version": "0.0.3",
+      "name": "Хентай-тян",
+      "nsfw": true,
+      "lang": "ru",
+      "url": "https://hentaichan.live"
     }
   ]
 }
